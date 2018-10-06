@@ -57,6 +57,10 @@
     float: center;
 }
 
+.container {
+    background-color: #dddddd;
+}
+
 #main {
     border: 5px solid #dddddd;
     background-color: #ffffff;
@@ -146,6 +150,7 @@ button {
     padding: 10%;
     align-content: center;
     font-family: 'Roboto', sans-serif;
+    display: inline-block;
 }
 
 .dance {
@@ -159,6 +164,7 @@ button {
     padding: 10%;
     align-content: center;
     font-family: 'Roboto', sans-serif;
+    display: inline-block;
 }
 
 .Northwestern {
@@ -172,6 +178,7 @@ button {
     padding: 10%;
     align-items: center;
     font-family: 'Roboto', sans-serif;
+    display: inline-block;
 }
 
 .singing {
@@ -185,6 +192,7 @@ button {
     padding: 10%;
     align-content: center;
     font-family: 'Roboto', sans-serif;
+    display: inline-block;
 }
 
 .Chess {
@@ -198,4 +206,5 @@ button {
     padding: 10%;
     align-content: center;
     font-family: 'Roboto', sans-serif; 
+    display: inline-block;
 }
